@@ -14,4 +14,4 @@ public
 /source/stylesheets/screen.css
 /vendor
 /node_modules
-/Gemfile.lock
+Gemfile.lock
