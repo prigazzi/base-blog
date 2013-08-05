@@ -1,0 +1,6 @@
+{% capture category %}{{ site.categories | category_links | size }}{% endcapture %}
+{% unless category == '0' %}
+<span class="categories">
+    {{ site.categories | category_links }}
+</span>
+{% endunless %}
