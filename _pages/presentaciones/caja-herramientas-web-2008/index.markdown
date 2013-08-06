@@ -21,3 +21,14 @@ Charla presentada durante Exponet Guatemala, en Marzo de 2008, sobre el estado d
 * 47 - Google como herramienta
 * 55 - Servicios Online
 * 59 - Extras
+
+### Presentación en Video
+
+La presentación **Caja de Herramientas Web** fue grabada en vivo y puede verse en los siguientes links:
+
+* [Parte I](http://www.youtube.com/watch?v=4lK8Jzm_9b4)
+* Parte II (Parece haberse perdido en el olvido. Si alguien la tiene, me avisa.)
+* [Parte III](http://www.youtube.com/watch?v=sqfjqGqgSrg)
+* [Parte IV](http://www.youtube.com/watch?v=vUd1OC5WXP8)
+* [Parte V](http://www.youtube.com/watch?v=chvjJzp6Z_A)
+* [Parte VI](http://www.youtube.com/watch?v=2A7Ywi5YILE)
