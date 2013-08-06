@@ -18,3 +18,13 @@ En la segunda parte del tutorial, veremos de implementar el mismo plugin de jQue
 <iframe width="640" height="360" src="//www.youtube.com/embed/mgJaVmT5PKA" frameborder="0" allowfullscreen></iframe>
 
 Si llegaste a ver los dos videos enteros, sabelo que sos mi héroe personal, son dos horas y media de Javascript, pero que te va a dejar preparado para leer y entender el código Javascript de la gran mayoría de los **plugins de jQuery** que están publicados en Internet. 
+
+## El código
+
+Si bien la idea es que vean los videos y aprendan a crear el código, que está explicado paso a paso, tienen todo disponible en Github.
+
+* [Código en Github](https://github.com/prigazzi/slider-jquery)
+* [Descargar el código](https://github.com/prigazzi/slider-jquery/archive/master.zip)
+
+
+
