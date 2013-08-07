@@ -17,7 +17,7 @@
 
 	{% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{% if page.url contains site.category_dir %}/{% endif %}{{ page.url | remove:'index.html' }}{% endif %}{% endcapture %}
   	<link rel="canonical" href="{{ canonical }}">
-	<link href="{{ root_url }}/favicon.png" rel="icon">
+	<link href="{{ root_url }}/favicon.ico" rel="shortcut icon">
 	<!-- Fonts -->
 	<link href='http://fonts.googleapis.com/css?family=Oleo+Script:400,700' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
