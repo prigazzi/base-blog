@@ -13,4 +13,6 @@ Esta sección contiene una colección de los videos que en los últimos años he
 
 Durante Junio de 2012, realizamos junto a Mejorando.la una clase conjunta, con una primera parte explicada durante el programa de Christian Van Der Henst y Freddy Vega, y la segunda parte durante Post.Mejorando.la, programa conducido por mí y otros locos lindos de internet. El resultado: casi 3 horas de tutorial en vídeo explicando dos maneras de realizar un plugin de jQuery.
 
+### [Mejorando la Web](/videos/mejorando-la-web)
 
+Durante 2008 junto a Christian Van Der Henst y Freddy Vega, grabamos una serie de videos haciendo comentarios sobre distintos sitios web.
