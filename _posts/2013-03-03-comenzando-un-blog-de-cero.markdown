@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comenzando un blog de cero"
-date: 2013-03-03 19:31
+date: 2013-03-03
 comments: true
 categories: General
 ---

@@ -4,6 +4,7 @@
 .gist-cache
 .preview-mode
 .pygments-cache
+.ruby-version
 _deploy
 public
 /sass
