@@ -20,7 +20,6 @@ sidebar: false
 
 	function show_result(rs)
 	{
-		console.log(rs);
 		if(rs.query.count) {
 			$('#sugerencia #url').html(url);
 			$('#sugerencia #oldurl').attr('href', to_old).html(rs.query.results.title);
