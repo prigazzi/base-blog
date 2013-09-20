@@ -1,4 +1,4 @@
-ruidodigital-blog
+base-blog
 =================
 
-Código fuente para el blog Ruidodigital con soporte de Octopress
+Código fuente para una base de blog con soporte de Octopress
