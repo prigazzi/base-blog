@@ -1,0 +1,3 @@
+[submodule ".themes/neo"]
+	path = .themes/neo
+	url = git@github.com:prigazzi/blog-themes.git
