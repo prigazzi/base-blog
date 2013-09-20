@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://ruidodigital.com
-title: RuidoDigital
-subtitle: Web Development done right.
+url: http://example.com
+title: BaseBlog
+subtitle: Let's Blog with Octopress
 author: Pablo Rigazzi
 simple_search: http://google.com/search
 description:
@@ -95,7 +95,7 @@ disqus_short_name: ruidodigital
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id: UA-66073-2
+google_analytics_tracking_id: UA-XXXXX-X
 
 # Facebook Like
 facebook_like: true
